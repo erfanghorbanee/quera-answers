@@ -24,11 +24,8 @@ def f3(x):
     if x == x[::-1]:
         return True
                 
-    
-    
-
+        
 for i in lst:
-    
     if f1(i) == True or f2(i) == True or f3(i) == True:
         print("Ronde!")
     else:
