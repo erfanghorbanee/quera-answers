@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# پاسخ سوالات سایت کوئرا ![پاسخ سوالات سایت کوئرا](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png) 
+# پاسخ سوالات سایت کوئرا  ![کوئرا](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png) 
 
 
 
