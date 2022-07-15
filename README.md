@@ -20,4 +20,4 @@
 - [modos solutions](https://github.com/modos/quera-answers)
 - [MohammadNPak solutions](https://github.com/MohammadNPak/quera.ir)
 - [myp79 solutions](https://github.com/myp79/Quera-Problem-Solution)
-- [erfanghorbanee solutions](https://github.com/erfanghorbanee/quera-answers/)
+- [Quera solutions in C#](https://github.com/HamidMolareza/QueraProblems)
