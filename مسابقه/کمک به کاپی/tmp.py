@@ -1,5 +1,5 @@
 inp = input().split(" ")
-s=""
+s = ""
 n = int(inp[0])
 
 for i in range(n):

@@ -6,7 +6,7 @@ for i in range(m):
     a += c
     b += d
 
-if (a > b and c > d) or (b > a and d > c) :
+if (a > b and c > d) or (b > a and d > c):
     print("Eyval baba!")
 else:
     print("Naaa, eshtebahe!")

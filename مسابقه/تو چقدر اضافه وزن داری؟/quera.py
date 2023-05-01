@@ -1,7 +1,7 @@
-#nesbate BMI
+# nesbate BMI
 
-n = int(input()) #vazn kg
-m = float(input()) #ghad metr
+n = int(input())  # vazn kg
+m = float(input())  # ghad metr
 
 bmi = n / (m * m)
 
@@ -15,5 +15,3 @@ elif 25 <= bmi and bmi < 30:
     print("Overweight")
 elif bmi >= 30:
     print("Obese")
-    
-

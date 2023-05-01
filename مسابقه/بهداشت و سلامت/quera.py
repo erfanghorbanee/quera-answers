@@ -5,10 +5,10 @@ if n == 0:
     ans = 20
 elif n == 7:
     ans = x
-else :
+else:
     ans = x - n
 
 if ans < 0:
     print(0)
-else :
+else:
     print(ans)

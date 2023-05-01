@@ -9,7 +9,7 @@ while i <= n:
         print("+", end="")
         f0 = f1
         f1 = fn
-        i+=1
+        i += 1
     else:
         print("-", end="")
-        i+=1
+        i += 1

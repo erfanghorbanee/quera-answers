@@ -16,4 +16,3 @@ for j in list:
             sum += 1
     print(sum)
     sum = 0
-            

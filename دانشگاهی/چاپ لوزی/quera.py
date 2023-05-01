@@ -1,5 +1,5 @@
-n = int(input()) #tedade space
-s = 1 #tedade setare ha
+n = int(input())  # tedade space
+s = 1  # tedade setare ha
 
 while n >= 0:
     l = " " * n + "*" * s
@@ -14,5 +14,3 @@ else:
         s -= 2
         l = " " * n + "*" * s
         print(l)
-
-

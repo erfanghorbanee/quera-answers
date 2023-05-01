@@ -1,6 +1,6 @@
 n = int(input())
 
-if n == 0 :
+if n == 0:
     print("No")
     print("No")
     print("No")
@@ -32,5 +32,3 @@ elif n == 9:
     print("Yes")
     print("Yes")
     print("Yes")
-
-    

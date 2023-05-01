@@ -6,4 +6,3 @@ for i in range(n):
         print("*")
     else:
         print(int(gp[i]) * "*")
-
