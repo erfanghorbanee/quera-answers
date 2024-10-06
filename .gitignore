@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vscode
+.vscode/
+
+# Ignore OS-specific files (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
