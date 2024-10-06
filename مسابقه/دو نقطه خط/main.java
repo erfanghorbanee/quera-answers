@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class mostafa {
+public class main {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		int x1 = sc.nextInt();

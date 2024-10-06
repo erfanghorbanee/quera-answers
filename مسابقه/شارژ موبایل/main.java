@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class sharj {
+public class main {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		int k = sc.nextInt();

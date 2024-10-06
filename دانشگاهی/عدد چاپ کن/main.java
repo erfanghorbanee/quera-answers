@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class entekhab {
+public class main {
 	public static void main(String args[]) {
 		Scanner a=new Scanner(System.in);
 		int n=a.nextInt(),tul=0;

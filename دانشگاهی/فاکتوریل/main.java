@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class factoriel {
+public class main {
 	public static void main(String args[]) {
 		Scanner s1= new Scanner(System.in);
 		int n = s1.nextInt();
