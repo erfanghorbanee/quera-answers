@@ -8,7 +8,7 @@ for page in range(page_counts):
     t = 0
     f = 0
     ignored = 0
-    
+
     for question in range(questions_counts):
         student_answer = input()
         correct_answer = key_map[key[question]]
@@ -21,4 +21,3 @@ for page in range(page_counts):
             f += 1
 
     print(t * 3 - f)
-

@@ -1,15 +1,15 @@
 def getnumber(string):
-    list=[]
+    list = []
     for i in string:
         if i not in list:
-            list.append(i)         
-    return len(list)  
-    
+            list.append(i)
+    return len(list)
 
-n=int(input())
-max=0
+
+n = int(input())
+max = 0
 for i in range(n):
-    s= input()
+    s = input()
     if getnumber(s) > max:
         max = getnumber(s)
 

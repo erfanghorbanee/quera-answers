@@ -6,6 +6,7 @@ b = 0
 for i in n:
     b += int(i)
 
+
 # checkprime function
 def checkprime(num):
     t = 1
