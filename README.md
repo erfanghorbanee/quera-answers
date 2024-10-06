@@ -27,8 +27,6 @@
 
 </br>
 
----
-
 <div id="english" dir="ltr">
 
 # Solutions to Challenges on Quera ![Quera](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png)
@@ -39,8 +37,6 @@
 Solving Quera questions is a great way to get started with programming and improve your problem-solving skills. As I go along and solve each problem, I'll be adding the solution here.
 
 I hope this helps, and don't forget, the goal is to learn :)
-
-</br>
 
 ## Similar Repositories
 
@@ -57,8 +53,6 @@ Here are some repositories that do similar work. If you're looking for solutions
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 </div>
-
----
 
 ### Switch Language
 
